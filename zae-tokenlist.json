@@ -6,6 +6,8 @@
     "minor": 0,
     "patch": 0
   },
+  "tags": {},
+  "keywords": ["zae", "polygon", "token", "list"],
   "tokens": [
     {
       "chainId": 137,
