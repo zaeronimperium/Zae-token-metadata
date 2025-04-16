@@ -1,0 +1,21 @@
+{
+  "name": "ZAE Token List",
+  "logoURI": "https://raw.githubusercontent.com/zaeronimperium/zae-token-metadata/main/logo.png",
+  "keywords": ["zae", "polygon", "token"],
+  "timestamp": "2025-04-16T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x7c65EDb390e56B6a875C6CfCD9c0D7dFafA6DEa5",
+      "name": "ZAE Token",
+      "symbol": "ZAE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/zaeronimperium/zae-token-metadata/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
